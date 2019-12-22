@@ -5,15 +5,15 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
-title = "Academic"
+title = "ModX"
 
 # The URL of your site.
-# End your URL with a `/` trailing slash, e.g. `https://example.com/`.
+# End your URL with a `/` trailing slash, e.g. `https://pranav.dev/`.
 baseurl = "/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = ""
+copyright = "&copy; {year}"
 
 ############################
 ## Advanced options below ##

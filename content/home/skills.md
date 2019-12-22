@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Skills"
-subtitle = ""
+subtitle = "Languages and Frameworks"
 
 # Showcase personal skills or business features.
 # 
@@ -15,21 +15,39 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "python"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "Python"
+  description = ""
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  icon = "js-square"
+  icon_pack = "fab"
+  name = "JavaScript"
+  description = ""  
+
+[[feature]]
+  icon = "c"
+  icon_pack = "fab"
+  name = "C/C++"
+  description = ""  
   
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  icon = "flask"
+  icon_pack = "fab"
+  name = "Flask"
+  description = ""
+
+[[feature]]
+  icon = "django"
+  icon_pack = "fab"
+  name = "Django"
+  description = ""
+
+[[feature]]
+  icon = "react"
+  icon_pack = "fab"
+  name = "React JS"
+  description = ""
 
 +++
