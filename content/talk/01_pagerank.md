@@ -4,7 +4,9 @@ title = "PageRank - Google's Search Engine Algorithm"
 
 time_start = 2030-06-01T13:00:00
 time_end = 2030-06-01T15:00:00
-abstract = ""
+
+abstract = "A short presentation on Google's Search Engine algorithm - PageRank, how it works, mathematics involved and the various terminologies and the ways of the web, followed by a group discussion over the research paper authored by the co-founders of Google - Larry Page and Sergey Brin."
+
 abstract_short = ""
 event = "Papers We Love (PwL), Kochi Chapter"
 event_url = ""
