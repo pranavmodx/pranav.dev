@@ -24,30 +24,30 @@ subtitle = "Languages and Frameworks"
   icon = "js-square"
   icon_pack = "fab"
   name = "JavaScript"
-  description = ""  
+  description = "" 
 
 [[feature]]
-  icon = "c"
+  icon = "cuttlefish"
   icon_pack = "fab"
   name = "C/C++"
   description = ""  
-  
-[[feature]]
-  icon = "flask"
-  icon_pack = "fab"
-  name = "Flask"
-  description = ""
 
 [[feature]]
-  icon = "django"
+  icon = "react"
+  icon_pack = "fab"
+  name = "React"
+  description = "" 
+
+[[feature]]
+  icon = "dyalog"
   icon_pack = "fab"
   name = "Django"
   description = ""
 
 [[feature]]
-  icon = "react"
+  icon = "affiliatetheme"
   icon_pack = "fab"
-  name = "React JS"
+  name = "Flask"
   description = ""
 
 +++
